@@ -1,0 +1,87 @@
+Real Estate Market Trends and Investment Analytics | CodeAlpha
+
+📌 Project Overview
+
+This project focuses on analysing real estate market data using Microsoft Power BI. The dashboard provides insights into property prices, rental trends, market demand, supply, and investment opportunities.
+
+The main objective is to transform real estate data into meaningful visual insights that support better property investment and market-related decisions.
+
+🎯 Project Objectives
+
+- Analyse property price trends.
+- Understand rental market patterns and rental yields.
+- Evaluate real estate market demand and supply.
+- Identify potential investment opportunities.
+- Explore geographical differences in property markets.
+- Present interactive visualisations for data-driven decision-making.
+
+🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Cleaning and Transformation
+- Data Modelling
+- Data Visualization
+
+📊 Dashboard Overview
+
+1. Real Estate Market Overview
+
+Provides an overall picture of the real estate market through key performance indicators and visualisations.
+
+2. Property Price Analysis
+
+Explores property prices and their variations across different locations and property categories.
+
+3. Market Trends & Investment Analytics
+
+Focuses on market patterns and investment-related insights to help understand potential opportunities.
+
+💡 Key Analytical Areas
+
+- Property price distribution
+- Property price comparisons
+- Rental market analysis
+- Rental yield analysis
+- Market demand and supply
+- Location-wise market performance
+- Investment trend analysis
+
+📁 Project Files
+
+- "CodeAlpha_Real_Estate_Dashboard.pbix" – Interactive Power BI dashboard.
+- Dataset file – Data used for the analysis.
+- Dashboard screenshots – Visual previews of the dashboard (if included).
+
+📈 Expected Business Value
+
+This dashboard can help users:
+
+- Understand real estate market trends.
+- Compare property prices across locations.
+- Explore rental and investment opportunities.
+- Identify areas with promising market activity.
+- Make more informed real estate decisions.
+
+🎓 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Developing interactive Power BI dashboards.
+- Cleaning and transforming datasets.
+- Creating DAX measures and KPIs.
+- Analysing real estate market trends.
+- Designing business-focused data visualisations.
+- Presenting analytical findings effectively.
+
+👩‍💻 Internship Information
+
+Organisation: CodeAlpha
+Project: Real Estate Market Trends and Investment Analytics
+Domain: Data Analytics
+Tool: Microsoft Power BI
+
+---
+
+Developed as part of my CodeAlpha internship to demonstrate practical skills in data analytics and business intelligence.
